@@ -90,10 +90,11 @@ http://localhost:3007
 ```
 http://localhost:3007
 ```
-Enter long URL
-(Optional) add custom short code
-Generate short link
-Click to redirect
+---
+*Enter long URL
+*(Optional) add custom short code
+*Generate short link
+*Click to redirect
 ---
 
 📊 Report Page
