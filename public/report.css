@@ -1,0 +1,76 @@
+/* ----- General Body ----- */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+
+/* ================= HEADER / NAVBAR ================= */
+
+.navbar {
+    background-color: brown;
+    padding: 1rem 0;
+}
+
+.navbar-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-links li {
+    margin: 0 20px;
+}
+
+.navbar-links a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 1.1rem;
+    padding: 6px 10px;
+    transition: background 0.3s, border-radius 0.3s;
+}
+
+.navbar-links a:hover {
+    background-color: rgba(255,255,255,0.2);
+    border-radius: 5px;
+}
+
+/* ================= STUDENT REPORT ================= */
+
+.report-section {
+    text-align: center;
+    padding: 2rem;
+}
+
+.report-section h1 {
+    margin-bottom: 2rem;
+}
+
+/* ONLY student report list */
+.student-list {
+    display: flex;              /* horizontal row */
+    justify-content: center;
+    gap: 1rem;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+/* ONLY student cards */
+.student-card {
+    background-color: white;
+    border-radius: 10px;
+    padding: 1.5rem;
+    width: 220px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    text-align: left;
+    transition: transform 0.2s;
+}
+
+.student-card:hover {
+    transform: scale(1.05);
+}
