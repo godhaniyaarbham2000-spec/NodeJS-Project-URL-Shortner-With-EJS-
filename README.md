@@ -90,18 +90,17 @@ http://localhost:3007
 ```
 http://localhost:3007
 ```
----
-*Enter long URL
-*(Optional) add custom short code
-*Generate short link
-*Click to redirect
+- Enter long URL  
+- (Optional) add custom short code  
+- Generate short link  
+- Click to redirect  
 ---
 
 📊 Report Page
 ```
 http://localhost:3007/report
 ```
-Displays student report cards using EJS rendering
+- Displays student report cards using EJS templating and server-side rendering
 ---
 💡 Example
 Input:
