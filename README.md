@@ -67,7 +67,7 @@ Clone the repository:
 git clone https://github.com/godhaniyaarbham2000-spec/NodeJS-URL-Shortener-EJS.git
 cd NodeJS-URL-Shortener-EJS
 ```
----
+
 Install dependencies:
 ```
 
