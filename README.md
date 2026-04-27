@@ -67,10 +67,13 @@ Clone the repository:
 git clone https://github.com/godhaniyaarbham2000-spec/NodeJS-URL-Shortener-EJS.git
 cd NodeJS-URL-Shortener-EJS
 ```
+---
 Install dependencies:
 ```
+
 npm install
 ```
+---
 ▶️ Run Project
 
 Start the server:
@@ -81,6 +84,7 @@ Server will run on:
 ```
 http://localhost:3007
 ```
+---
 💻 Usage
 🔗 URL Shortener Page
 ```
@@ -90,13 +94,14 @@ Enter long URL
 (Optional) add custom short code
 Generate short link
 Click to redirect
+---
 
 📊 Report Page
 ```
 http://localhost:3007/report
 ```
 Displays student report cards using EJS rendering
-
+---
 💡 Example
 Input:
 ```
