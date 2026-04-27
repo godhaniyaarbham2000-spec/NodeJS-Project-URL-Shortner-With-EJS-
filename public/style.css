@@ -1,19 +1,26 @@
 body {
   font-family: "urbanist", sans-serif;
   background-color: #f0f4f8;
+
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+
+  min-height: 100vh;
   margin: 0;
+
+  overflow: hidden; /* 🚫 no page scrollbar */
 }
 
 .container {
   background-color: #fff;
-  padding: 30px;
+  padding: 25px;
   border-radius: 12px;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
-  width: 400px;
+
+  width: 90%;
+  max-width: 380px;
+
   text-align: center;
 }
 h1 {
@@ -34,7 +41,7 @@ label {
 
 input[type="url"],
 input[type="text"] {
-  width: 100%;
+  width: 95%;
   padding: 12px;
   border: 1px solid #ddd;
   border-radius: 8px;
