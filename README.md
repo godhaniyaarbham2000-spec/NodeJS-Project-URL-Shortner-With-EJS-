@@ -1,4 +1,4 @@
-# 🔗 URL Shortener (Node.js + EJS)
+# 🔗 URL Shortener (Node.js + Express.js + EJS)
 
 A full-stack URL Shortener web application built using Node.js, Express, and EJS.  
 It allows users to convert long URLs into short, easy-to-share links and view analytics-like recent links.
