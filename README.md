@@ -30,6 +30,7 @@ It allows users to convert long URLs into short, easy-to-share links and view an
 ## 📂 Project Structure
 ```
 NodeJS-ExpressJS-Project-URL-Shortner-With-EJS/
+│
 │── app.js
 │── package.json
 │── package-lock.json
