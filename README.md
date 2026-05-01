@@ -29,7 +29,7 @@ It allows users to convert long URLs into short, easy-to-share links and view an
 
 ## 📂 Project Structure
 ```
-NodeJS-ExpressJS-Project-URL-Shortner-With-EJS/
+NodeJS-Project-URL-Shortner-With-EJS/
 │
 │── app.js
 │── package.json
@@ -65,11 +65,11 @@ NodeJS-ExpressJS-Project-URL-Shortner-With-EJS/
 Clone the repository:
 
 ```
-git clone https://github.com/godhaniyaarbham2000-spec/NodeJS-ExpressJS-Project-URL-Shortner-With-EJS.git
+git clone https://github.com/godhaniyaarbham2000-spec/NodeJS-Project-URL-Shortner-With-EJS.git
 ```
 Go to project folder
 ```
-cd NodeJS-ExpressJS-Project-URL-Shortner-With-EJS
+cd NodeJS-Project-URL-Shortner-With-EJS
 ```
 
 Install dependencies:
